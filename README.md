@@ -4,7 +4,7 @@
 I'm a passionate platform engineer with a love for distributed systems, databases, and cloud technologies. My journey in computer science has equipped me with the skills to build scalable and efficient systems. Here’s a bit about my background and expertise:
 
 - 🔭 **Current Focus**: Distributed Systems, Databases, Backend Architecture, and Cloud Infrastructure
-- 🌱 **Learning**: System Design, Database internals, Algorithms
+- 🌱 **Learning**: Go, System Design, Database internals
 - 👯 **Looking to Collaborate**: On open-source projects and innovative tech solutions.
 - 💬 **Ask me about**: Databases, Cloud Computing, Distributed Systems, and Platform Engineering.
 - 📫 **Contact**: [Email](mailto:udesinee@asu.edu) | [LinkedIn](https://www.linkedin.com/in/umamaheshwaraswamy/)
