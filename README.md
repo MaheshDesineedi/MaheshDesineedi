@@ -34,9 +34,12 @@ I'm a passionate platform engineer with a love for distributed systems, database
 ### Tools and OS
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-IDEA-blue?style=flat-square&logo=intellij-idea&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/-ServiceNow-0BA9E0?style=flat-square&logo=servicenow&logoColor=white)
+![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 ## 📫 Connect with Me on LinkedIN
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/umamaheshwaraswamy/)
