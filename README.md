@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Mahesh. Thank you for visiting my page.
 
 ## 🚀 About Me
-I'm a passionate platform engineer with a love for distributed systems, databases, and cloud technologies. My journey in computer science has equipped me with the skills to build scalable and efficient systems. Here’s a bit about my background and expertise:
+I'm a passionate platform engineer with a love for distributed systems, databases, cloud and ML/AI Infrastructure. My journey in computer science has equipped me with the skills to build scalable and efficient systems. Here’s a bit about my background and expertise:
 
-- 🔭 **Current Focus**: Distributed Systems, Databases, Backend Architecture, and Cloud Infrastructure
+- 🔭 **Current Focus**: Backend Architecture, Distributed Systems, Databases, Machine Learning Systems
 - 🌱 **Learning**: Go, System Design, Database internals
 - 👯 **Looking to Collaborate**: On open-source projects and innovative backend tech solutions
 - 💬 **Ask me about**: Distributed Systems, Machine Learning, Backend Infrastructure
@@ -30,6 +30,25 @@ I'm a passionate platform engineer with a love for distributed systems, database
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+### Machine Learning
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00599C?style=flat&logo=deep-learning&logoColor=white)
+![Convolutional Neural Networks](https://img.shields.io/badge/Convolutional%20Neural%20Networks-007396?style=flat&logo=cnn&logoColor=white)
+![KNN](https://img.shields.io/badge/KNN-4285F4?style=flat&logo=knn&logoColor=white)
+![DBSCAN](https://img.shields.io/badge/DBSCAN-F7DF1E?style=flat&logo=dbscan&logoColor=white)
+![Decision Trees](https://img.shields.io/badge/Decision%20Trees-3776AB?style=flat&logo=decision-tree&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-4EAA25?style=flat&logo=tensorflow&logoColor=white)
+![Distributed Training](https://img.shields.io/badge/Distributed%20Training-003B57?style=flat&logo=distributed-training&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-4285F4?style=flat&logo=mlops&logoColor=white)
+![ML/AI Infrastructure](https://img.shields.io/badge/ML%2FAI%20Infrastructure-34A853?style=flat&logo=ml-ai-infrastructure&logoColor=white)
+
+### Generative AI
+![Large Language Models](https://img.shields.io/badge/LLM-009688?style=flat)
+![Retrieval Augmented Generation (RAG)](https://img.shields.io/badge/Retrieval%20Augmented%20Generation-3F51B5?style=flat)
+![Vectorized Semantic Search](https://img.shields.io/badge/Vectorized%20Semantic%20Search-673AB7?style=flat)
+![LLM Fine-Tuning](https://img.shields.io/badge/LLM%20Fine--Tuning-009688?style=flat)
+![DeepSpeed Distributed Training](https://img.shields.io/badge/DeepSpeed%20Distributed%20Training-4CAF50?style=flat)
+![GPU Kernel Programming](https://img.shields.io/badge/GPU%20Kernel%20Programming-F44336?style=flat)
 
 ### Tools and OS
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
