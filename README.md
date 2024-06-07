@@ -5,7 +5,7 @@ I'm a passionate platform engineer with a love for distributed systems, database
 
 - 🔭 **Current Focus**: Backend Architecture, Distributed Systems, Databases, Machine Learning Systems
 - 🌱 **Learning**: Go, System Design, Database internals
-- 👯 **Looking to Collaborate**: On open-source projects and innovative backend tech solutions
+- 🤝 **Looking to Collaborate**: On open-source projects and innovative backend tech solutions
 - 💬 **Ask me about**: Distributed Systems, Machine Learning, Backend Infrastructure
 - 📫 **Contact**: [Email](mailto:udesinee@asu.edu) | [LinkedIn](https://www.linkedin.com/in/umamaheshwaraswamy/)
 - ⚡ **Fun Fact**: I’m a competitive programmer and love tackling algorithmic challenges including Chess ♞
