@@ -40,8 +40,6 @@ I'm a passionate platform engineer with a love for distributed systems, database
 ![Decision Trees](https://img.shields.io/badge/Decision%20Trees-3776AB?style=flat&logo=decision-tree&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-4EAA25?style=flat&logo=tensorflow&logoColor=white)
 ![Distributed Training](https://img.shields.io/badge/Distributed%20Training-003B57?style=flat&logo=distributed-training&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-4285F4?style=flat&logo=mlops&logoColor=white)
-![ML/AI Infrastructure](https://img.shields.io/badge/ML%2FAI%20Infrastructure-34A853?style=flat&logo=ml-ai-infrastructure&logoColor=white)
 
 ### Generative AI
 ![Large Language Models](https://img.shields.io/badge/LLM-009688?style=flat)
