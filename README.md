@@ -30,6 +30,7 @@ I'm a passionate platform engineer with a love for distributed systems, database
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat)
 
 ### Machine Learning
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00599C?style=flat&logo=deep-learning&logoColor=white)
@@ -55,6 +56,7 @@ I'm a passionate platform engineer with a love for distributed systems, database
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-IDEA-blue?style=flat-square&logo=intellij-idea&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-007ACC?style=flat)
 ![ServiceNow](https://img.shields.io/badge/-ServiceNow-0BA9E0?style=flat-square&logo=servicenow&logoColor=white)
 ![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
