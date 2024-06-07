@@ -32,6 +32,13 @@ I'm a passionate platform engineer with a love for distributed systems, database
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat)
 
+### Systems
+![Multi-threading](https://img.shields.io/badge/Multi--threading-795548?style=flat)
+![Asynchronous Programming](https://img.shields.io/badge/Asynchronous%20Programming-673AB7?style=flat)
+![Caching](https://img.shields.io/badge/Caching-009688?style=flat)
+![Pub-Sub Systems](https://img.shields.io/badge/Pub--Sub%20Systems-3F51B5?style=flat)
+![Performance Optimization](https://img.shields.io/badge/Performance%20Optimization-4CAF50?style=flat)
+
 ### Machine Learning
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00599C?style=flat&logo=deep-learning&logoColor=white)
 ![Convolutional Neural Networks](https://img.shields.io/badge/Convolutional%20Neural%20Networks-007396?style=flat&logo=cnn&logoColor=white)
